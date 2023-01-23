@@ -1,2 +1,27 @@
 
 /* Your CSS Code here. */
+
+.item1{
+	border:1px dotted black;
+	background-color:#008081;
+}
+.item2{
+	border:1px dotted black;
+	background-color:#d7bfd7;
+}
+.item3{
+	border:1px dotted black;
+	background-color:#fe6347;
+}
+.item4{
+	border:1px dotted black;
+	background-color:#3fe0d0;
+}
+.item5{
+	border:1px dotted black;
+	background-color:#ee82ef;
+}
+.item6{
+	border:1px dotted black;
+	background-color:#9acd32;
+}
